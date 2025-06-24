@@ -1,6 +1,4 @@
-     
-
-# Your wiki name
+# Schulphysik
 
 [Home](index.md)
 [About](about.md)
